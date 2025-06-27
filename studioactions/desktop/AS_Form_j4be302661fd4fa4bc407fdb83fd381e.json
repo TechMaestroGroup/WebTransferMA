@@ -1,0 +1,22 @@
+{
+    "AS_Form_j4be302661fd4fa4bc407fdb83fd381e": {
+        "id": "AS_Form_j4be302661fd4fa4bc407fdb83fd381e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmUTFDomesticTransferConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j1204f7b46724f3285a2abe72917a1b2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_c2988ab332ad4815b219b3937b6ef1ee",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();"
+        }]
+    }
+}

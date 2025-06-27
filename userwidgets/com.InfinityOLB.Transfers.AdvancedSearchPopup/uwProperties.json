@@ -1,0 +1,164 @@
+{
+    "classname": "AdvancedSearchPopup",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "bb58e35ab99342439da0b88426363cd8",
+                    "paramList": [],
+                    "propertyKey": "setContext",
+                    "pw": {
+                        "displayName": "setContext",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "df4a82572c974f52b2d54536f260bec3",
+                    "paramList": [],
+                    "propertyKey": "showPopup",
+                    "pw": {
+                        "displayName": "showPopup",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "d1fec40ab5a1400f9da7a7ec1c3f3444",
+                    "paramList": [],
+                    "propertyKey": "hidePopup",
+                    "pw": {
+                        "displayName": "hidePopup",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ga5c5add55f5498d8f480c3063033622",
+                    "paramList": [],
+                    "propertyKey": "getSearchOptions",
+                    "pw": {
+                        "displayName": "getSearchOptions",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "d8df84ac34184c5da4648720e4a37696",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "searchClickCallBack",
+                    "pw": {
+                        "displayName": "searchClickCallBack",
+                        "toolTip": "Search click callback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i99bf65fb7d7488d8accd17d66a785b0",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onHideCallBack",
+                    "pw": {
+                        "displayName": "onHideCallBack",
+                        "toolTip": "Hide callback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "event"
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e2b938526dfe42acbadd98eec95da1f9",
+                    "originalPropertyKey": "onKeyPress",
+                    "propertyIndex": 3,
+                    "propertyKey": "onKeyPress",
+                    "pw": {
+                        "access": "readwrite",
+                        "applicablePSPplatform": "desktopweb",
+                        "category": "action",
+                        "displayName": "onKeyPress",
+                        "pspPlatform": {
+                            "desktop": [
+                                "desktopweb"
+                            ],
+                            "mobile": [],
+                            "tablet": []
+                        },
+                        "srcWidget": "flxScrlPopupBg",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "FlexScrollContainer"
+                    },
+                    "srcWgtKUID": "a2ed794cf51a47eea98fa3a34ad0f40d",
+                    "translateAtInstance": false
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "{}",
+                    "group": "General",
+                    "kuid": "e3761fa643ee4123bbdd989a621b175c",
+                    "originalPropertyKey": "dataMapping",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 1,
+                    "propertyKey": "dataMapping",
+                    "pw": {
+                        "displayName": "Data Mapping",
+                        "toolTip": "Data Mapping",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "f81c45ec4cf34fe7adb4f30287d77980",
+                    "type": "json",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.InfinityOLB.Transfers",
+    "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_c8ffa5f1fb5542ec88f50f3c3a50afd1": {
+        "id": "AS_Form_c8ffa5f1fb5542ec88f50f3c3a50afd1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmUSVisaConfirmation",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eedc37984997442cafe2f4fbb8d62fb6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_cbc221c3a4f046be8d88e7215ac662a1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

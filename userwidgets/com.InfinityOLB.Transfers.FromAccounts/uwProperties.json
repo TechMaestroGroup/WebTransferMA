@@ -1,0 +1,182 @@
+{
+    "classname": "FromAccounts",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "h4c42a907f8b46f9be81818b454b5efd",
+                    "paramList": [],
+                    "propertyKey": "setContext",
+                    "pw": {
+                        "displayName": "setContext",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "fca715a277eb4728aecb75dbb87e5eae",
+                    "paramList": [],
+                    "propertyKey": "getSelectedAccount",
+                    "pw": {
+                        "displayName": "getSelectedAccount",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "c0a266c9a70d41478a8cfab208e50318",
+                    "paramList": [],
+                    "propertyKey": "setSelectedAccount",
+                    "pw": {
+                        "displayName": "setSelectedAccount",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i1c8d7e8e4b444639e96f2eaaf268d79",
+                    "paramList": [],
+                    "propertyKey": "setAccessibilityValues",
+                    "pw": {
+                        "displayName": "setAccessibilityValues",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "jf57f41d57a442639710ee82d927bba5",
+                    "paramList": [
+                        {
+                            "name": "subscriberKey"
+                        },
+                        {
+                            "name": "subscriberValue"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "subscribeToTouchEnd",
+                    "pw": {
+                        "displayName": "subscribeToTouchEnd",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ic9407b574814aeb897e085b7c878c12",
+                    "paramList": [
+                        {
+                            "name": "subscriberKey"
+                        },
+                        {
+                            "name": "subscriberValue"
+                        }
+                    ],
+                    "propertyIndex": 2,
+                    "propertyKey": "updateTouchEndSubscriber",
+                    "pw": {
+                        "displayName": "updateTouchEndSubscriber",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ba4f8452ff36461fb3acde13697d622d",
+                    "paramList": [
+                        {
+                            "name": "searchText"
+                        }
+                    ],
+                    "propertyIndex": 3,
+                    "propertyKey": "onTextBoxTextChange",
+                    "pw": {
+                        "displayName": "onTextBoxTextChange",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ffb4b0053969439cb647d683e4d2155f",
+                    "paramList": [
+                        {
+                            "name": "selectedDropdownValue"
+                        }
+                    ],
+                    "propertyIndex": 4,
+                    "propertyKey": "onSelection",
+                    "pw": {
+                        "displayName": "onSelection",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "{}",
+                    "group": "General",
+                    "kuid": "de0a0ee257bf4765b0ef6a96c86031a5",
+                    "originalPropertyKey": "dataMapping",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 1,
+                    "propertyKey": "dataMapping",
+                    "pw": {
+                        "displayName": "Data Mapping",
+                        "toolTip": "Data Mapping",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "hf1bc55a44514f34adf96f43bffe0a19",
+                    "type": "json",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.InfinityOLB.Transfers",
+    "version": "1.0.0"
+}

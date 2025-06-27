@@ -1,0 +1,86 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8526cdd6875492c948d1696e144f601",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "lblSearchTitle4",
+        "lblSearchValue4",
+        "lblSearchCancel4",
+        "lblSearchTitle5",
+        "lblSearchValue5",
+        "lblSearchCancel5",
+        "lblSearchTitle6",
+        "lblSearchValue6",
+        "lblSearchCancel6"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxSearchItemsRow2",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c7ebf96436b3464a9fcd2e03a35da4b2",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSearchItemResponsive",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "5dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

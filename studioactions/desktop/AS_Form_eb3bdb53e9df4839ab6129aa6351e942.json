@@ -1,0 +1,23 @@
+{
+    "AS_Form_eb3bdb53e9df4839ab6129aa6351e942": {
+        "id": "AS_Form_eb3bdb53e9df4839ab6129aa6351e942",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoansLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d7c07e32001343698d56837d0fa24dad"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_f50d3ab7f6634f4cb8cf953da65a025f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null
+        }]
+    }
+}

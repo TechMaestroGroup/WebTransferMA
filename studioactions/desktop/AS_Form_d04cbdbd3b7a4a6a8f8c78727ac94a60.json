@@ -1,0 +1,23 @@
+{
+    "AS_Form_d04cbdbd3b7a4a6a8f8c78727ac94a60": {
+        "id": "AS_Form_d04cbdbd3b7a4a6a8f8c78727ac94a60",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmConfirmEuro",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d8e78e42d0dc4e9eba5a9ead6d35052a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_e80ef2f858de4194934b4d6d7e1bc3da",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

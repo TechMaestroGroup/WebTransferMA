@@ -1,0 +1,23 @@
+{
+    "AS_Form_ccb98fe3a1cc421aa8de9c24be0ad22d": {
+        "id": "AS_Form_ccb98fe3a1cc421aa8de9c24be0ad22d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmConfirmEuroMPESAPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a3dd8c5671ff4fd98662ad4d8d748169"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_efee4e49a7d84306b626a37d2c7ded84",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

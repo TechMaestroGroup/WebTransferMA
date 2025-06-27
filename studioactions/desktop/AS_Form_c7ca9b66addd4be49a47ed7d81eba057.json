@@ -1,0 +1,23 @@
+{
+    "AS_Form_c7ca9b66addd4be49a47ed7d81eba057": {
+        "id": "AS_Form_c7ca9b66addd4be49a47ed7d81eba057",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmMakePayment",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a835690e39754e3ab028003925258724"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_b276f86b6dfd494893ffede4cb0878e7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

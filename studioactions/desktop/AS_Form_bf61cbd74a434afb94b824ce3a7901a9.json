@@ -1,0 +1,23 @@
+{
+    "AS_Form_bf61cbd74a434afb94b824ce3a7901a9": {
+        "id": "AS_Form_bf61cbd74a434afb94b824ce3a7901a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAwachTransfer",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bad211e3471a458c95db3c344d91c99a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ga36b3cf69584319bd464fa2e76baf79",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null
+        }]
+    }
+}

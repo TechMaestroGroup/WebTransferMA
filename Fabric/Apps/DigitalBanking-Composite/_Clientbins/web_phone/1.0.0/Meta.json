@@ -1,0 +1,8 @@
+{
+  "filename": "OnlineBanking.zip",
+  "channels": "responsive_web",
+  "upgradable": false,
+  "displayname": "Digital Banking",
+  "description": "'Binary for OnlineBanking'",
+  "version": "1.0.0"
+}

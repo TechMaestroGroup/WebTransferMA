@@ -1,0 +1,182 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "268px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s701065f11074080832b59947e731160",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "CustomPopup": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "hb6687c5e05c4a8c82ed07f7410d2187",
+                "srcKUID": "eb2d311dcb4744a7b05aa4f5428a6c53",
+                "wType": "FlexContainer"
+            }
+        },
+        "btnNo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f90781d6a88242ac8479d67836739afb",
+                "srcKUID": "h61577b4448c4e22a2636221e8fe0d6d",
+                "wType": "Button"
+            }
+        },
+        "btnYes": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e307a8d2c3ba4440b96d143c10c24aff",
+                "srcKUID": "e1c11d09edb846848d4aaf921cb1e5a0",
+                "wType": "Button"
+            }
+        },
+        "flxCross": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bee8fc23ef4a4ad7a72dc8adffb4c51d",
+                "srcKUID": "h0a23469e8f44a2a81ff2a93652c5ead",
+                "wType": "Button"
+            }
+        },
+        "flxHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "icd1dbde0b6a421db65ff6d95dfeac8f",
+                "srcKUID": "b6d465d7232a428eba11c466c6843856",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeperator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fc899e6b11024734b4b8eff3ba1eedb3",
+                "srcKUID": "b469cc45156e429d8fa47b9786168d10",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeperator2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dcd5f083c4404a088cc0e636f836a97f",
+                "srcKUID": "e909e4e4b4a145b1aa92b22ece7050d3",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxpopupMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dbab1973f9a94c0294fbb475860095a5",
+                "srcKUID": "id33509bb6654181b4eb6a96270fb9e8",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgWarn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b3a5598016574840aac9250616dc8bff",
+                "srcKUID": "eab6900f32414efcb34f1036fd360760",
+                "wType": "Image"
+            }
+        },
+        "lblHeading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fc977870c05b4cc58693fea9c020798e",
+                "srcKUID": "f97c1408984847af9f3cd9984a260c74",
+                "wType": "Label"
+            },
+            "i18n_text": "i18n.billPay.QuitBillPay"
+        },
+        "lblPopupMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fe53861bfe96467eb232a0aaaa639735",
+                "srcKUID": "f7c7509dccf24b88aeb13dc3d34fcc6b",
+                "wType": "Label"
+            },
+            "i18n_text": "i18n.Transfers.Areyousureyouwanttocancelthistransaction"
+        },
+        "lblPopupMessage1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jc20e5ed455f48b6949f0cf9fbab7865",
+                "srcKUID": "je57f61de78040b18e630df9fcf1fc8b",
+                "wType": "Label"
+            }
+        }
+    },
+    "desktopweb": {},
+    "id": "CustomPopupLogout",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "hb6687c5e05c4a8c82ed07f7410d2187",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxLogout",
+    "pf": "frmConfirmEuroMPESAPage",
+    "responsiveData": {
+        "b2": {
+            "width": {
+                "type": "string",
+                "value": "75%"
+            }
+        },
+        "b3": {
+            "width": {
+                "type": "string",
+                "value": "75%"
+            }
+        }
+    },
+    "snaptogrid": true,
+    "sourceUserWidget": "eb2d311dcb4744a7b05aa4f5428a6c53",
+    "spabb": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "vizprops": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance"
+}

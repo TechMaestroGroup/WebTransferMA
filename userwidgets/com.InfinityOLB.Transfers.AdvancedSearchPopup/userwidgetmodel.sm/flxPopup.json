@@ -1,0 +1,79 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "600dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s701065f11074080832b59947e731160",
+    "_width_": {
+        "type": "string",
+        "value": ""
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxTitle",
+        "flxTitleSep",
+        "flxGrid",
+        "flxButtons"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxPopup",
+    "info": null,
+    "iscustomlayout": false,
+    "ismodalcontainer": false,
+    "isvisible": true,
+    "kuid": "f81f704cbc5c485cb683efb5f79ea3cd",
+    "layouttype": 4,
+    "maxwidth": {
+        "type": "string",
+        "value": "700dp"
+    },
+    "name": "kony.ui.FlexContainer",
+    "parent": "AdvancedSearchPopup",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b2": {},
+        "b3": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

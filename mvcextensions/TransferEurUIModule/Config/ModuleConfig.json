@@ -1,0 +1,147 @@
+{
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationExtensions": [],
+            "PresentationControllerClass": "TransferEurUIModule/PresentationControllers/PresentationController"
+        }
+    },
+    "Forms": {
+        "desktop": {
+            "frmAcknowledgementEuro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmAcknowledgementEuroController",
+                "FormName": "TransferEurUIModule/frmAcknowledgementEuro",
+                "friendlyName": "frmAcknowledgementEuro"
+            },
+            "frmAddBeneficiaryAcknowledgementEuro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmAddBeneficiaryAcknowledgementEuroController",
+                "FormName": "TransferEurUIModule/frmAddBeneficiaryAcknowledgementEuro",
+                "friendlyName": "frmAddBeneficiaryAcknowledgementEuro"
+            },
+            "frmAddBeneficiaryConfirmEuro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmAddBeneficiaryConfirmEuroController",
+                "FormName": "TransferEurUIModule/frmAddBeneficiaryConfirmEuro",
+                "friendlyName": "frmAddBeneficiaryConfirmEuro"
+            },
+            "frmAddBeneficiaryEuro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmAddBeneficiaryEuroController",
+                "FormName": "TransferEurUIModule/frmAddBeneficiaryEuro",
+                "friendlyName": "frmAddBeneficiaryEuro"
+            },
+            "frmConfirmEuro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmEuroController",
+                "FormName": "TransferEurUIModule/frmConfirmEuro",
+                "friendlyName": "frmConfirmEuro"
+            },
+            "frmMakePayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakePaymentController",
+                "FormName": "TransferEurUIModule/frmMakePayment",
+                "friendlyName": "frmMakePayment"
+            },
+            "frmMakeTelebirrPayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakeTelebirrPaymentController",
+                "FormName": "TransferEurUIModule/frmMakeTelebirrPayment",
+                "friendlyName": "frmMakeTelebirrPayment"
+            },
+            "frmConfirmEuroPage": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmEuroPageController",
+                "FormName": "TransferEurUIModule/frmConfirmEuroPage",
+                "friendlyName": "frmConfirmEuroPage"
+            },
+            "frmMakeAwachPayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakeAwachPaymentController",
+                "FormName": "TransferEurUIModule/frmMakeAwachPayment",
+                "friendlyName": "frmMakeAwachPayment"
+            },
+            "frmConfirmEuroAWACHPage": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmEuroAWACHPageController",
+                "FormName": "TransferEurUIModule/frmConfirmEuroAWACHPage",
+                "friendlyName": "frmConfirmEuroAWACHPage"
+            },
+            "frmMakeMPESAPayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakeMPESAPaymentController",
+                "FormName": "TransferEurUIModule/frmMakeMPESAPayment",
+                "friendlyName": "frmMakeMPESAPayment"
+            },
+            "frmMakeMPESATrustPayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakeMPESATrustPaymentController",
+                "FormName": "TransferEurUIModule/frmMakeMPESATrustPayment",
+                "friendlyName": "frmMakeMPESATrustPayment"
+            },
+            "frmMakeATMTransferPayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakeATMTransferPaymentController",
+                "FormName": "TransferEurUIModule/frmMakeATMTransferPayment",
+                "friendlyName": "frmMakeATMTransferPayment"
+            },
+            "frmConfirmEuroMPESAPage": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmEuroMPESAPageController",
+                "FormName": "TransferEurUIModule/frmConfirmEuroMPESAPage",
+                "friendlyName": "frmConfirmEuroMPESAPage"
+            },
+            "frmConfirmEuroMPESATrustPage": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmEuroMPESATrustPageController",
+                "FormName": "TransferEurUIModule/frmConfirmEuroMPESATrustPage",
+                "friendlyName": "frmConfirmEuroMPESATrustPage"
+            },
+            "frmConfirmEuroATMPage": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmEuroATMPageController",
+                "FormName": "TransferEurUIModule/frmConfirmEuroATMPage",
+                "friendlyName": "frmConfirmEuroATMPage"
+            },
+            "frmMakeBillsPayment": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmMakeBillsPaymentController",
+                "FormName": "TransferEurUIModule/frmMakeBillsPayment",
+                "friendlyName": "frmMakeBillsPayment"
+            },
+            "frmUSVisaConfirmation": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmUSVisaConfirmationController",
+                "FormName": "TransferEurUIModule/frmUSVisaConfirmation",
+                "friendlyName": "frmUSVisaConfirmation"
+            },
+            "frmConfirmBillsEuro": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "TransferEurUIModule/frmConfirmBillsEuroController",
+                "FormName": "TransferEurUIModule/frmConfirmBillsEuro",
+                "friendlyName": "frmConfirmBillsEuro"
+            }
+        }
+    },
+    "ModuleType": "UIModule",
+    "ModuleName": "TransferEurUIModule"
+}

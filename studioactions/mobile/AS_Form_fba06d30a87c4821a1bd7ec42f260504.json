@@ -1,0 +1,22 @@
+{
+    "AS_Form_fba06d30a87c4821a1bd7ec42f260504": {
+        "id": "AS_Form_fba06d30a87c4821a1bd7ec42f260504",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmEuropeManageBeneficiaries",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c91ce6e2f1624f71868efab0e322f759"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_b2b826560a67413497b38a300af1c76b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init()"
+        }]
+    }
+}

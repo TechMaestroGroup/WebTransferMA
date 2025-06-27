@@ -1,0 +1,1564 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgSelect": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "new_tickmark.png"
+            },
+            "lblBottomSheet": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Profile"
+            },
+            "lblSeperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeperator1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "039",
+    "disabledSkins": {},
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segBottomSheet",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ge43e40a3f4a488ba1da2baf02a708c1",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            {
+                "imgSelect": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "new_tickmark.png"
+                },
+                "lblBottomSheet": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Profile"
+                },
+                "lblSeperator": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                },
+                "lblSeperator1": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            }
+        ],
+        "rowTemplateId": "g653759885234c8d8ae1c9b0c40e7ae8",
+        "rowtemplate": "flxTransfersBottomSheet",
+        "widgetdatamap": {
+            "flxImgSelect": "flxImgSelect",
+            "flxTransfersBottomSheet": "flxTransfersBottomSheet",
+            "imgSelect": "imgSelect",
+            "lblBottomSheet": "lblBottomSheet",
+            "lblSeperator1": "lblSeperator1"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBottomSheetOptions",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 39,
+    "rowfocusskin": "s02d7ca459a74168b4573e79b9d8efec",
+    "rowskin": "s69f28c050df43fb9bf92e79f4534943",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s69f28c050df43fb9bf92e79f4534943",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxImgSelect": "flxImgSelect",
+        "flxTransfersBottomSheet": "flxTransfersBottomSheet",
+        "imgSelect": "imgSelect",
+        "lblBottomSheet": "lblBottomSheet",
+        "lblSeperator1": "lblSeperator1"
+    },
+    "widgetskin": "s69f28c050df43fb9bf92e79f4534943",
+    "zindex": 1
+}

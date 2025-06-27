@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sdf3d9436a494222beb9e35a50f30549",
+    "_text_": "Search or select an account to view its transfers",
+    "_top_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_wrapping_": 2,
+    "accessibilityconfig": {
+        "a11yARIA": {
+            "tabindex": -1
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxNoPaymentMessage",
+    "info": null,
+    "isvisible": true,
+    "kuid": "aca07b8fc7994d5f91e98cfda68214d9",
+    "name": "kony.ui.RichText",
+    "parent": "flxSelectFromAccountError",
+    "pf": "frmPastPaymentsEurNew",
+    "responsiveData": {
+        "b3": {}
+    },
+    "texti18n": "i18n.transfers.SearchOrSelectAnAccountToViewItsTransfers",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

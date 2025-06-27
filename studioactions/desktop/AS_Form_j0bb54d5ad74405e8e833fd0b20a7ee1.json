@@ -1,0 +1,23 @@
+{
+    "AS_Form_j0bb54d5ad74405e8e833fd0b20a7ee1": {
+        "id": "AS_Form_j0bb54d5ad74405e8e833fd0b20a7ee1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmMakeMPESATrustPayment",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd68116731904ce28da14ebcc11acd69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_d48112830f70416299be09d2b85d02ba",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

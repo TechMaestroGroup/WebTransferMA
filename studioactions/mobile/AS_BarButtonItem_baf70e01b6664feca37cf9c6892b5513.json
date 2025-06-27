@@ -1,0 +1,17 @@
+{
+    "AS_BarButtonItem_baf70e01b6664feca37cf9c6892b5513": {
+        "id": "AS_BarButtonItem_baf70e01b6664feca37cf9c6892b5513",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_c2dc14ddbbf64522ad6521242ff1da64",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "return self.resetSearchUI.call(this);",
+            "parentId": null
+        }]
+    }
+}

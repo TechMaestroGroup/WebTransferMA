@@ -1,0 +1,23 @@
+{
+    "AS_Form_c569362ea5d24a90a3a71731f68dfef5": {
+        "id": "AS_Form_c569362ea5d24a90a3a71731f68dfef5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmConfirmEuroMPESATrustPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cec4d3be1b0b4f5492632e6944a6dda8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_bacaa371c94c41a88f5f47d820162dc1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

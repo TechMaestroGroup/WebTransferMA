@@ -1,0 +1,23 @@
+{
+    "AS_Form_gdb29be5acd843848d6ca1779c7d780d": {
+        "id": "AS_Form_gdb29be5acd843848d6ca1779c7d780d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRetailTransferConfirmation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d94434375a2849978445f09efd79e95d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ea8753cac5024128ba0bda236d928785",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null
+        }]
+    }
+}
