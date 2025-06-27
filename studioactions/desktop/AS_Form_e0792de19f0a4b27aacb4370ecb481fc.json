@@ -1,0 +1,23 @@
+{
+    "AS_Form_e0792de19f0a4b27aacb4370ecb481fc": {
+        "id": "AS_Form_e0792de19f0a4b27aacb4370ecb481fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmConfirmEuroAWACHPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j2ed1d3e99be4d2f8c16210e10ab681d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_c614ea16c2e9439687cb1648b19049dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

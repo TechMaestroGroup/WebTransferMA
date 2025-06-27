@@ -1,0 +1,23 @@
+{
+    "AS_Form_ja78060aed3a4077b37572f8de5fec48": {
+        "id": "AS_Form_ja78060aed3a4077b37572f8de5fec48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmMakeTelebirrPayment",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c53d137f121d4ff5a8a848831e4c94ab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_d95d6f16ba734b6e8a868e8e78736035",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

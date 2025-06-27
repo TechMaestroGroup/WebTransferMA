@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s24c92fc23b14f5484b693ee9b8a9b35",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "92.50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "dataMapping": "{\n  \"transferType\": \"Personal Micro Loan\",\n  \"entitlements\": {\n    \"MakeTransfer\": [\n      \"PERSONAL_MICRO_LOAN_CREATE\"\n    ],\n    \"AddNewAccount\": [\n      \"\"\n    ]\n  },\n  \"flxTransferTypes\": {\n    \"imgTransactionIcon\": \"personalmicro.png\",\n    \"lblTransactionType\": \"${i18n{i18n.payments.personalMicroLoan}}\",\n    \"rtLearnMore\": \"${i18n{i18n.UnifiedTransfer.personalMicroLoanDescription}}\",\n    \"MoreLink\": \"${i18n{i18n.login.viewMore}}\"\n  },\n  \"description\": {\n    \"lblTransactionTypePopup\": \"${i18n{i18n.payments.requestPersonalMicroLoan}}\",\n    \"rtPopupDescription\": \"${i18n{i18n.UnifiedTransfer.requestPersonalMicroLoanDescription}}\",\n    \"lblTermsConditionsTitle\": \"${i18n{i18n.ProfileManagement.TermsAndConditions}}\",\n    \"rtTermsConditions\": \"${i18n{i18n.UnifiedTransfer.termsConditions}}\"\n  }\n}\n",
+        "rtxtId": "LearnMore2"
+    },
+    "desktopweb": {
+        "render": true
+    },
+    "id": "LoansSelection2",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fc9aeb9cff8d438894d62ffe251577b7",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxContainer2",
+    "pf": "frmLoansLandings",
+    "responsiveData": {
+        "b2": {},
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "171dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "bd49763c10f147739f4773ddbcb954dc",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

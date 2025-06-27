@@ -1,0 +1,51 @@
+{
+	"Forms": {
+        "desktop": {
+			"frmRTLanding": {
+                "Controller": "RetailTransfersUIModule/frmRTLandingController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "RetailTransfersUIModule/frmRTLanding",
+                "friendlyName": "frmRTLanding"
+            },
+            "frmTelebirr": {
+                "Controller": "RetailTransfersUIModule/frmTelebirrController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "RetailTransfersUIModule/frmTelebirr",
+                "friendlyName": "frmTelebirr"
+            },
+            "frmAwachTransfer": {
+                "Controller": "RetailTransfersUIModule/frmAwachTransferController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "RetailTransfersUIModule/frmAwachTransfer",
+                "friendlyName": "frmAwachTransfer"
+            },
+			"frmMPesaTransfer": {
+                "Controller": "RetailTransfersUIModule/frmMPesaTransferController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "RetailTransfersUIModule/frmMPesaTransfer",
+                "friendlyName": "frmMPesaTransfer"
+            },
+			"frmCardlessWithdrawal": {
+                "Controller": "RetailTransfersUIModule/frmCardlessWithdrawalController",
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "FormName": "RetailTransfersUIModule/frmCardlessWithdrawal",
+                "friendlyName": "frmCardlessWithdrawal"
+            }
+			 }
+    },
+	
+    "PresentationControllerConfig": {
+		"Default": {
+			"PresentationExtensions": [],
+            "PresentationControllerClass": "RetailTransfersUIModule/PresentationControllers/PresentationController"
+		}
+	},
+    
+    "ModuleType": "UIModule",
+	"ModuleName": "RetailTransfersUIModule"
+}

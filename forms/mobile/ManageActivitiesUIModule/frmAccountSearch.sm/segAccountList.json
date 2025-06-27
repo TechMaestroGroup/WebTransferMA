@@ -1,0 +1,1356 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_data_": [
+        [
+            {
+                "imgChevron": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "arrowup.png"
+                },
+                "lblHeaderName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transaction header name"
+                }
+            },
+            [
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgChevron": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "arrowup.png"
+                },
+                "lblHeaderName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Transaction header name"
+                }
+            },
+            [
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                },
+                {
+                    "imgIcon": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "norecordsavailableicon.png"
+                    },
+                    "imgIcon1": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon12": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon2": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "imgIcon3": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "personal.png"
+                    },
+                    "imgIcon31": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "citi.png"
+                    },
+                    "imgIcon4": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "disputedtransactionicon1.png"
+                    },
+                    "lblCustomerDetailsKA": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField1": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField2": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblField3": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblField4": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblNoRecords": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "No Record is available."
+                    }
+                }
+            ]
+        ]
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "dockSectionHeaders": true
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "110",
+    "enabledictionary": true,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segAccountList",
+    "info": null,
+    "invokedProperty": "selectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "enableDictionary": true,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d6f8ab6ee9da40a7bfd39952a2003d6b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainContainer",
+    "pf": "frmAccountSearch",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "e93eb0c4862e44b68a41b72993e04fcd",
+    "rowcounter": 10,
+    "rowfocusskin": "s31c2585aac1444c821742efa4646d46",
+    "rowskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "rowtemplate": "flxUnifiedTransferRowTemplate",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "bd91cf5637324d5d9d7646aba1c754f5",
+    "sectionheaderskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "sectionheadertemplate": "flxUnifiedTransferHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "selectionindicator": "imgSelectedTick",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxField1": "flxField1",
+        "flxField3": "flxField3",
+        "flxGroup1": "flxGroup1",
+        "flxGroup2": "flxGroup2",
+        "flxGroup3": "flxGroup3",
+        "flxGroup4": "flxGroup4",
+        "flxIcon1": "flxIcon1",
+        "flxIcon2": "flxIcon2",
+        "flxIcon3": "flxIcon3",
+        "flxIcon4": "flxIcon4",
+        "flxImgChevron": "flxImgChevron",
+        "flxNoRecords": "flxNoRecords",
+        "flxRow": "flxRow",
+        "flxSeparator": "flxSeparator",
+        "flxUnifiedTransferHeader": "flxUnifiedTransferHeader",
+        "flxUnifiedTransferRowTemplate": "flxUnifiedTransferRowTemplate",
+        "flxUpShadow": "flxUpShadow",
+        "imgChevron": "imgChevron",
+        "imgIcon": "imgIcon",
+        "imgIcon1": "imgIcon1",
+        "imgIcon12": "imgIcon12",
+        "imgIcon2": "imgIcon2",
+        "imgIcon3": "imgIcon3",
+        "imgIcon31": "imgIcon31",
+        "imgIcon4": "imgIcon4",
+        "lblCustomerDetailsKA": "lblCustomerDetailsKA",
+        "lblField1": "lblField1",
+        "lblField2": "lblField2",
+        "lblField3": "lblField3",
+        "lblField4": "lblField4",
+        "lblHeaderName": "lblHeaderName",
+        "lblNoRecords": "lblNoRecords"
+    },
+    "widgetskin": "s7edd442a0b84fcf8effd2349b7c3044",
+    "zindex": 1
+}

@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7562756f999480fbb279bb3ddf3525a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "accessibilityconfig": {
+        "a11yARIA": {
+            "role": "button",
+            "tabindex": 0
+        }
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopylblSelectAccount0gbd7cb694be240",
+        "CopyflxTypeIcon0f89873c38d054b",
+        "CopylblFromAmount0j9ad4efedff44f",
+        "CopyflxLoadingContainerFrom0i65e84ee181244",
+        "CopyflxDropdownIcon0f4f8e412176e48"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxFromtxt0dd31d14766114e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c0092577b64c47c49fbe9bc4e9c8d1f7",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxPhoneNoInput",
+    "pf": "frmTelebirrTransfer",
+    "responsiveData": {
+        "b3": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

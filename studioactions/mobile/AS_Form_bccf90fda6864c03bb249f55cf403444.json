@@ -1,0 +1,22 @@
+{
+    "AS_Form_bccf90fda6864c03bb249f55cf403444": {
+        "id": "AS_Form_bccf90fda6864c03bb249f55cf403444",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmBeneficiaryCustomerSearch",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e9eec76e1b544e81bb8b4c952dfb0ad5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_f2ca9ff9eb1748099481f0ab3a035dac",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init()"
+        }]
+    }
+}

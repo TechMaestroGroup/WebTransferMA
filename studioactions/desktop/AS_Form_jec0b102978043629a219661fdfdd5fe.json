@@ -1,0 +1,23 @@
+{
+    "AS_Form_jec0b102978043629a219661fdfdd5fe": {
+        "id": "AS_Form_jec0b102978043629a219661fdfdd5fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAckReview",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jee9ebd3c3ce4586b6c3272c22ac6d8c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_b78b6eb5e28249d981b0901a457d5117",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null
+        }]
+    }
+}

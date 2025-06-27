@@ -1,0 +1,23 @@
+{
+    "AS_Form_fea771e4d0844f80abeea920da1c736d": {
+        "id": "AS_Form_fea771e4d0844f80abeea920da1c736d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTelebirrTransfer",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i198795e2a4442878580748e5f4be348"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_aa7d749b44d04b919fff5e683240b817",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "parentId": null
+        }]
+    }
+}

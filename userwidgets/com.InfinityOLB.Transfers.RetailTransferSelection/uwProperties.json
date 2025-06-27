@@ -1,0 +1,201 @@
+{
+    "classname": "RetailTransferSelection",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "e83d62db23eb4fd7932d3b33de44a66e",
+                    "paramList": [],
+                    "propertyKey": "setContext",
+                    "pw": {
+                        "displayName": "setContext",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "j8f3ff74cc264bc6951bde64c1f4a276",
+                    "paramList": [],
+                    "propertyKey": "setRichTextFocus",
+                    "pw": {
+                        "displayName": "setRichTextFocus",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b0d7462d6db04dad83afc3a8eac6a775",
+                    "paramList": [],
+                    "propertyKey": "setAccessibility",
+                    "pw": {
+                        "displayName": "setAccessibility",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "i632d7f828e94293adff178790be62e6",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "hideTile",
+                    "pw": {
+                        "displayName": "hideTile",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "fbf44490582a469f8f68a00da2bb281d",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "transferTypeDetails",
+                    "pw": {
+                        "displayName": "transferTypeDetails",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "d1dfff375a1647a780ad21ed2428edbf",
+                    "paramList": [],
+                    "propertyIndex": 3,
+                    "propertyKey": "onError",
+                    "pw": {
+                        "displayName": "onError",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "{}",
+                    "group": "General",
+                    "kuid": "fab87ecc5c984f02bf9b168e1fb86e8a",
+                    "originalPropertyKey": "serviceParameters",
+                    "propertyIndex": 1,
+                    "propertyKey": "serviceParameters",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "Service Parameters",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "json",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "{\n  \"transferType\": \"Same Bank\",\n  \"entitlements\": {\n    \"MakeTransfer\": [\n      \"INTRA_BANK_FUND_TRANSFER_CREATE\",\n      \"TRANSFER_BETWEEN_OWN_ACCOUNT_CREATE\"\n    ],\n    \"AddNewAccount\": [\n      \"INTRA_BANK_FUND_TRANSFER_CREATE_RECEPIENT\",\n      \"TRANSFER_BETWEEN_OWN_ACCOUNT_CREATE_RECEPIENT\"\n    ]\n  },\n  \"flxTransferTypes\": {\n    \"imgTransactionIcon\": \"to_konybank_acc.png\",\n    \"lblTransactionType\": \"${i18n{i18n.payments.withinSameBank}}\",\n    \"rtLearnMore\": \"${i18n{i18n.UnifiedTransfer.sameBankDescription}}\",\n    \"MoreLink\": \"${i18n{i18n.login.viewMore}}\"\n  },\n  \"description\": {\n    \"lblTransactionTypePopup\": \"${i18n{i18n.payments.transferWithinSameBank}}\",\n    \"rtPopupDescription\": \"${i18n{i18n.UnifiedTransfer.sameBankDescription}}\",\n    \"lblTermsConditionsTitle\": \"${i18n{i18n.ProfileManagement.TermsAndConditions}}\",\n    \"rtTermsConditions\": \"${i18n{i18n.UnifiedTransfer.termsConditions12345678}}\"\n  }\n}",
+                    "group": "General",
+                    "kuid": "f4a59b00bf004c08a4b81c86b06c1c6a",
+                    "originalPropertyKey": "dataMapping",
+                    "propertyIndex": 2,
+                    "propertyKey": "dataMapping",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "Data Mapping",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "json",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "{}",
+                    "group": "General",
+                    "kuid": "d4613446c97b4d9995cb38347bdb92f5",
+                    "originalPropertyKey": "dataFormatting",
+                    "propertyIndex": 3,
+                    "propertyKey": "dataFormatting",
+                    "pw": {
+                        "displayName": "Data Formatting",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "json",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "LearnMore1",
+                    "group": "General",
+                    "kuid": "c6d3bc92e1624f0d9956ead36b9e7286",
+                    "originalPropertyKey": "rtxtId",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 4,
+                    "propertyKey": "rtxtId",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "RichText Id",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "f485ca8e263444f49dec0a2f57a42777",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.InfinityOLB.Transfers",
+    "version": "1.0.0"
+}

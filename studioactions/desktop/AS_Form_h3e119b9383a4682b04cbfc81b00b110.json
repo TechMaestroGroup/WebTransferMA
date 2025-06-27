@@ -1,0 +1,23 @@
+{
+    "AS_Form_h3e119b9383a4682b04cbfc81b00b110": {
+        "id": "AS_Form_h3e119b9383a4682b04cbfc81b00b110",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmMakeAwachPayment",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i47b9f76e99e465eb22e405b06fbdd98"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_init_e66eaedcf33f432aae1cc8dd7728896c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.init();",
+            "callbackType": null
+        }]
+    }
+}

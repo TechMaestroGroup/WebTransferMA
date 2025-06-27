@@ -1,0 +1,109 @@
+{
+    "classname": "BottomSheet",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "e0f939f86925478d93012adc15d10d60",
+                    "paramList": [],
+                    "propertyKey": "setContext",
+                    "pw": {
+                        "displayName": "setContext",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b14725447ea14674900d99c7e5a1c60f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "f24c88c316bc4ff8b4b7cc8f91b313af",
+                    "paramList": [],
+                    "propertyKey": "showPopup",
+                    "pw": {
+                        "displayName": "showPopup",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b14725447ea14674900d99c7e5a1c60f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "f999a42d9ea84784ace40df38a206ba1",
+                    "paramList": [],
+                    "propertyKey": "hidePopup",
+                    "pw": {
+                        "displayName": "hidePopup",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b14725447ea14674900d99c7e5a1c60f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "j32685da7dc14ed3b8c6e6c487cd6569",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onDismissCallBack",
+                    "pw": {
+                        "displayName": "onDismissCallBack",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b14725447ea14674900d99c7e5a1c60f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "{}",
+                    "group": "General",
+                    "kuid": "c0efe793392d48619b20b0c6baf0c1a7",
+                    "originalPropertyKey": "dataMapping",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 1,
+                    "propertyKey": "dataMapping",
+                    "pw": {
+                        "displayName": "DataMapping",
+                        "toolTip": "DataMapping",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "b14725447ea14674900d99c7e5a1c60f",
+                    "type": "json",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.InfinityMB.Transfers",
+    "version": "1.0.0"
+}

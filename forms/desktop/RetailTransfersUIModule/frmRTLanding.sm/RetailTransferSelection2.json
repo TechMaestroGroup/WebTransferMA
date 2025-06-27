@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s24c92fc23b14f5484b693ee9b8a9b35",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "92.50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "dataMapping": "{\n  \"transferType\": \"Awach Account\",\n  \"entitlements\": {\n    \"MakeTransfer\": [\n      \"AWACH_TRANSFER_CREATE\",\n      \"TRANSFER_BETWEEN_OWN_ACCOUNT_CREATE\"\n    ],\n    \"AddNewAccount\": [\n      \"AWACH_TRANSFER_CREATE_RECEPIENT\",\n      \"TRANSFER_BETWEEN_OWN_ACCOUNT_CREATE_RECEPIENT\"\n    ]\n  },\n  \"flxTransferTypes\": {\n    \"imgTransactionIcon\": \"awoch.png\",\n    \"lblTransactionType\": \"Transfer to Awach Account\",\n    \"rtLearnMore\": \"Transfer Money to Awach Account\",\n    \"MoreLink\": \"${i18n{i18n.login.viewMore}}\"\n  },\n  \"description\": {\n    \"lblTransactionTypePopup\": \"Transfer to Awach Account\",\n    \"rtPopupDescription\": \"Transfer Money to Awach Account\",\n    \"lblTermsConditionsTitle\": \"${i18n{i18n.ProfileManagement.TermsAndConditions}}\",\n    \"rtTermsConditions\": \"${i18n{i18n.UnifiedTransfer.termsConditions12345678}}\"\n  }\n}",
+        "rtxtId": "LearnMore2"
+    },
+    "desktopweb": {
+        "render": true
+    },
+    "id": "RetailTransferSelection2",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bee9ae79033a4430bc6f5748491d7428",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxContainer2",
+    "pf": "frmRTLanding",
+    "responsiveData": {
+        "b2": {},
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "171dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "f485ca8e263444f49dec0a2f57a42777",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

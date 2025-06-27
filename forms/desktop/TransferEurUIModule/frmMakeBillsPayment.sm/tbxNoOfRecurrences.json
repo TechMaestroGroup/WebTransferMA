@@ -1,0 +1,122 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "PIN",
+    "_right_": "0.00%",
+    "_skin_": "see5cceb37bc48a1a30aced8b8753dd0",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45.30%"
+    },
+    "accessibilityconfig": {
+        "a11yLabel": "Recurrences",
+        "a11yLabeli18n": "i18n.transfers.lblRecurrences"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s2faf9c2766d4142ab33d0bf97445ae0",
+    "id": "tbxNoOfRecurrences",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ff94e4da5f654553bb7b26513524422b",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxContainer5",
+    "pf": "frmMakeBillsPayment",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "68%"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "32%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "2%"
+            },
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "96%"
+            }
+        },
+        "b4": {
+            "left": {
+                "type": "string",
+                "value": "68%"
+            },
+            "right": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "32%"
+            }
+        },
+        "b5": {
+            "left": {
+                "type": "string",
+                "value": "68%"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "32%"
+            }
+        }
+    },
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

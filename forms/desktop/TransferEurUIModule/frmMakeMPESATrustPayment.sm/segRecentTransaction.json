@@ -1,0 +1,510 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "lblAccount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "FROM: USER ACCOUNT"
+                },
+                "lblAccountName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ACCOUNT NAME"
+                },
+                "lblTransactionAmount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "30000ETB"
+                },
+                "lblTransactionDate": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "DATE: 30-03-2025"
+                }
+            },
+            [
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblAccount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "FROM: USER ACCOUNT"
+                },
+                "lblAccountName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ACCOUNT NAME"
+                },
+                "lblTransactionAmount": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "30000ETB"
+                },
+                "lblTransactionDate": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "DATE: 30-03-2025"
+                }
+            },
+            [
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                },
+                {
+                    "lblAccountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "TADELE URGESSA ..."
+                    },
+                    "lblCurrencyCode": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "ETB"
+                    },
+                    "lblTransactionAmount": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "576,693.62"
+                    },
+                    "lblTransactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26/10/1980"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "019",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segRecentTransaction",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dc7c349724844a0d87830499ed13dcf5",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxRecentTransaction",
+    "pf": "frmMakeMPESATrustPayment",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "aba7874c4c544c1ba77cda08a27ef322",
+    "rowcounter": 19,
+    "rowfocusskin": "s571f82684854b418c7bec812175bbef",
+    "rowskin": "s963e910ffcd4c4bad15b40374469956",
+    "rowtemplate": "segFlxRecentTransaction",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "cf1c5354f8c14a73aaac67149d7e1e74",
+    "sectionheaderskin": "s8e97cfd5f0b44e48c08d20da07866f4",
+    "sectionheadertemplate": "flxMain",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxBottom": "flxBottom",
+        "flxTop": "flxTop",
+        "lblAccountName": "lblAccountName",
+        "lblCurrencyCode": "lblCurrencyCode",
+        "lblTransactionAmount": "lblTransactionAmount",
+        "lblTransactionDate": "lblTransactionDate",
+        "segFlxRecentTransaction": "segFlxRecentTransaction"
+    }
+}
